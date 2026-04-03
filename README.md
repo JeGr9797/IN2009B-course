@@ -33,7 +33,7 @@ This module presents representative routing and scheduling problems, together wi
 
 Topics include:
 - Traveling Salesman Problem (TSP)
-- Efficient TSP formulations
+- Efficient TSP formulations (Branch-and-Cut)
 - Vehicle Routing Problem (VRP)
 - Capacitated Vehicle Routing Problem (CVRP)
 - CVRP with PyVRP
