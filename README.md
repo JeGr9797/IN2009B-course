@@ -110,8 +110,8 @@ The notebook on CVRP with PyVRP uses the pyvrp package as an alternative framewo
 
 This material is mainly intended for:
 
-* Students enrolled in the IN2009B course.
-* Students interested in optimization modeling with Python.
+* Students enrolled in the IN2009B course at Tecnológico de Monterrey.
+* Students (bachelor degree) interested in optimization modeling with Python.
 
 ## Author
 
