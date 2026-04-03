@@ -43,7 +43,7 @@ Topics include:
 
 ## Repository structure
 
-A typical organization of the repository is as follows:
+The organization of the repository is as follows:
 
 ```text
 IN2009B-optimization-course/
@@ -55,7 +55,7 @@ IN2009B-optimization-course/
 │   ├── 01_location/
 │   ├── 02_production_and_capacity/
 │   └── 03_routing_and_scheduling/
-└── data/
+
 
 ```
 ## Module overview
@@ -100,6 +100,8 @@ Several notebooks rely on Gurobi for solving mathematical programming models. Ru
 
 The gurobipy package.
 Access to a valid Gurobi license if the size of the problem increases.
+
+
 PyVRP
 
 The notebook on CVRP with PyVRP uses the pyvrp package as an alternative framework for vehicle routing problems.
@@ -114,4 +116,5 @@ This material is mainly intended for:
 ## Author
 
 José Emmanuel Gómez Rocha
+
 Tecnológico de Monterrey
