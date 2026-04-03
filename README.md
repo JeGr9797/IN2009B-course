@@ -2,7 +2,7 @@
 
 This repository contains Jupyter notebooks and supporting material for the **IN2009B course at Tecnológico de Monterrey**. The content focuses on **mathematical optimization models** and their **computational implementation in Python**, covering fundamental topics in location, production planning, routing, and scheduling.
 
-The material is designed for **teaching and learning purposes**, combining mathematical formulations, modeling insights, and computational examples that help students understand how optimization models are formulated and solved in practice.
+The material is designed for **teaching and learning purposes**, combining mathematical formulations, modeling insights, and computational examples that help students understand how optimization models are formulated and how they can be **approached in practice** (yes I know that not all the cases MIP formulations are the best, this is for learning purposes).
 
 ---
 
