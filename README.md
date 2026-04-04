@@ -5,7 +5,6 @@ This repository contains Jupyter notebooks and supporting material for the **IN2
 The material is designed for **teaching and learning purposes**, combining mathematical formulations, modeling insights, and computational examples that help students understand how optimization models are formulated and how they can be **approached in practice** (yes I know that not all the cases MIP formulations are the best, this is for learning purposes).
 
 <p align="center">
-  <img src="Images/P-median.png" alt="P-median" width="40%">
   <img src="Images/TSP.png" alt="TSP" width="45%">
 </p>
 
@@ -26,6 +25,10 @@ Topics include:
 - Capacitated Facility Location Problem (CFLP)
 - Stronger formulations for CFLP
 
+<p align="center">
+  <img src="Images/P-median.png" alt="P-median" width="40%">
+</p>
+
 ### 2. Production and Capacity
 This module covers selected optimization models related to production planning and capacity decisions.
 
@@ -43,6 +46,10 @@ Topics include:
 - Capacitated Vehicle Routing Problem (CVRP)
 - CVRP with PyVRP
 - Job Shop Scheduling
+
+<p align="center">
+  <img src="Images/Schedule.png" alt="P-median" width="45%">
+</p>
 
 ---
 
