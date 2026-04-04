@@ -2,7 +2,7 @@
 
 This repository contains Jupyter notebooks and supporting material for the **IN2009B course at Tecnológico de Monterrey**. The content focuses on **mathematical optimization models** and their **computational implementation in Python**, covering fundamental topics in location, production planning, routing, and scheduling.
 
-The material is designed for **teaching and learning purposes**, combining mathematical formulations, modeling insights, and computational examples that help students understand how optimization models are formulated and solved in practice.
+The material is designed for **teaching and learning purposes**, combining mathematical formulations, modeling insights, and computational examples that help students understand how optimization models are formulated and how they can be **approached in practice** (yes I know that not all the cases MIP formulations are the best, this is for learning purposes).
 
 ---
 
@@ -106,12 +106,16 @@ PyVRP
 
 The notebook on CVRP with PyVRP uses the pyvrp package as an alternative framework for vehicle routing problems.
 
+GILP
+
+The introductory notebook uses gilp to visualize how simplex algorithm works.
+
 ## Intended audience
 
 This material is mainly intended for:
 
-* Students enrolled in the IN2009B course.
-* Students interested in optimization modeling with Python.
+* Students enrolled in the IN2009B course at Tecnológico de Monterrey.
+* Students (bachelor degree) interested in optimization modeling with Python.
 
 ## Author
 
