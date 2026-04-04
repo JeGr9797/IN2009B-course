@@ -106,6 +106,10 @@ PyVRP
 
 The notebook on CVRP with PyVRP uses the pyvrp package as an alternative framework for vehicle routing problems.
 
+GILP
+
+The introductory notebook uses gilp to visualize how simplex algorithm works.
+
 ## Intended audience
 
 This material is mainly intended for:
