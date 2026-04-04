@@ -55,6 +55,8 @@ IN2009B-optimization-course/
 │   ├── 01_location/
 │   ├── 02_production_and_capacity/
 │   └── 03_routing_and_scheduling/
+├── images/
+|__
 
 
 ```
