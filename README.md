@@ -6,7 +6,7 @@ The material is designed for **teaching and learning purposes**, combining mathe
 
 <p align="center">
   <img src="Images/P-median.png" alt="P-median" width="45%">
-  <img src="Images/TSP.png" alt="TSP" width="45%">
+  <img src="Images/TSP.png" alt="TSP" width="55%">
 </p>
 
 ---
