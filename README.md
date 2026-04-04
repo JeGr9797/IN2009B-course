@@ -5,8 +5,8 @@ This repository contains Jupyter notebooks and supporting material for the **IN2
 The material is designed for **teaching and learning purposes**, combining mathematical formulations, modeling insights, and computational examples that help students understand how optimization models are formulated and how they can be **approached in practice** (yes I know that not all the cases MIP formulations are the best, this is for learning purposes).
 
 <p align="center">
-  <img src="Images/P-median.png" alt="P-median" width="45%">
-  <img src="Images/TSP.png" alt="TSP" width="55%">
+  <img src="Images/P-median.png" alt="P-median" width="40%">
+  <img src="Images/TSP.png" alt="TSP" width="45%">
 </p>
 
 ---
